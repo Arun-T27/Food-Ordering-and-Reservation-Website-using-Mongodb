@@ -1,12 +1,40 @@
-# React + Vite
+# Swiss Hotels Reservation and Ordering System 🏨🍽️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack dining reservation and menu ordering web application built using **React.js**, **Node.js**, **Express**, and **MongoDB**. Users can browse the menu, make reservations, update them, and enjoy a seamless dining experience — all from their device.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔐 User authentication and registration
+- 📅 Table reservation system with live availability check
+- 🍽️ Dynamic menu categorized by meal (Brunch, Lunch, Dinner, Desserts, Drinks)
+- 🧾 Order management
+- 📦 Admin dashboard for menu and reservations
+- 🛠️ Backend powered by Node.js and Express
+- 📊 MongoDB for database (locally or hosted)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Screenshots
+
+- 🏠 Home Page
+- 📋 Menu with Brunch/Lunch/Dinner/Dessert
+- 📅 Table Reservation UI
+- ✅ Confirmation Page
+- 🔐 Login & Register
+
+---
+
+## 📚 Tech Stack
+
+- **Frontend**: React, Vite, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB (local or hosted)
+- **Authentication**: LocalStorage-based session
+
+---
+
+## 📜 License
+
+This project is developed for educational purposes.
